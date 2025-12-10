@@ -68,3 +68,9 @@ Title :- Firewall -Linux
 - Web traffic on port 80 allowed properly
     
 - Firewall logs show dropped packets
+
+
+# **7.Output**:
+
+
+![[Firewall -1.png]]![[Firewall-2.png]]![[Firewall-3.png]]
