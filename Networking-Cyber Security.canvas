@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"045ceb25c6cdfe95","x":-200,"y":-860,"width":320,"height":60,"type":"text","text":"Core Networking Fundamentals"},
+		{"id":"86c601f585743f4d","x":698,"y":-1000,"width":250,"height":60,"type":"text","text":"Traffic Analysis & Logs"},
+		{"id":"bd543d548b17ee76","x":260,"y":-1200,"width":280,"height":80,"type":"text","text":"Attacks & Defensive Mapping"},
+		{"id":"595363bbd5dad689","x":-165,"y":-1000,"width":250,"height":60,"type":"text","text":"Cloud & Enterprise Networking"},
+		{"id":"42c065f419319024","x":85,"y":-580,"width":250,"height":60,"type":"text","text":"IP Addressing & Subnetting"},
+		{"id":"9a048ff3478dad2a","x":510,"y":-580,"width":125,"height":60,"type":"text","text":"Protocols"},
+		{"id":"b019f752e734c3d5","x":-115,"y":-710,"width":200,"height":60,"type":"text","text":"OSI & TCP/IP Models"},
+		{"id":"ee9ce8e7d6db8ff8","x":635,"y":-710,"width":250,"height":60,"type":"text","text":"Ports & Services"},
+		{"id":"43d8c47818b27b05","x":275,"y":-910,"width":250,"height":50,"color":"3","type":"text","text":"Networking"},
+		{"id":"9f968a8456d69e60","x":760,"y":-855,"width":250,"height":50,"type":"text","text":"Networking Devices"}
+	],
+	"edges":[
+		{"id":"516394b04795bda0","fromNode":"43d8c47818b27b05","fromSide":"bottom","toNode":"b019f752e734c3d5","toSide":"top"},
+		{"id":"16b463d6d66bed88","fromNode":"43d8c47818b27b05","fromSide":"bottom","toNode":"42c065f419319024","toSide":"top"},
+		{"id":"4e946a06d802cd14","fromNode":"43d8c47818b27b05","fromSide":"bottom","toNode":"9a048ff3478dad2a","toSide":"top"},
+		{"id":"c42b0197c8d1e796","fromNode":"43d8c47818b27b05","fromSide":"bottom","toNode":"ee9ce8e7d6db8ff8","toSide":"top"},
+		{"id":"68383ed8b29f8f8b","fromNode":"43d8c47818b27b05","fromSide":"top","toNode":"bd543d548b17ee76","toSide":"bottom"},
+		{"id":"9eabaa79b44dcb64","fromNode":"43d8c47818b27b05","fromSide":"top","toNode":"86c601f585743f4d","toSide":"top"},
+		{"id":"bc9880bec2e634b7","fromNode":"43d8c47818b27b05","fromSide":"top","toNode":"595363bbd5dad689","toSide":"top"},
+		{"id":"947a26efe8acd3c9","fromNode":"43d8c47818b27b05","fromSide":"left","toNode":"045ceb25c6cdfe95","toSide":"top"},
+		{"id":"26a6f837129b4b02","fromNode":"43d8c47818b27b05","fromSide":"right","toNode":"9f968a8456d69e60","toSide":"top"}
+	]
+}
